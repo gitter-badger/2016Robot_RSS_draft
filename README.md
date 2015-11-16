@@ -19,14 +19,17 @@
 
 ##Codes
  * All codes are under repo <code><a href="https://github.com/team5181/2015Robot">team5181/2015Robot</a></code>
+ * 
 ###Bug submission/Improvements
  * All discussions and bugs must be submitted to issues tab under <code>team5181/2015Robot</code> repo.
  * All improvements made must be submitted to pull-requests tab under <code>team5181/2015Robot</code> repo.
- * It is strongly encouraged to first open a thread under issues before you make any modification to the codes
+ * It is strongly encouraged to first open a thread under issues before you make any modification to the codes.
+
 ###Dev process
  * It is recommended that you use a commandline based <code>git</code> to submit pull requests
  * Only <strong>1</strong> branch is to be used: <code>master</code>
  * <code>master</code> branch <strong>must be available for compile</strong> at all time
+
 ###Code testing
  * For logic testing, <a href="https://travis-ci.org">Travis-CI</a> is recommended.
  * For further testing contact Mark or Connor for more info.
@@ -68,7 +71,8 @@ https://wpilib.screenstepslive.com/s/4485/m/13809/l/145002-installing-eclipse-c-
 
 ##Changelist
  * 2015-11-15 22:08: <code><a href="//github.com/frjalex">Alex Fang</a></code> created this repository.
+ *  2015-11-15 22:08: <code><a href="//github.com/frjalex">Alex Fang</a></code> fixed some typos in README
 
 ##Meta
- *TBD: Newbie tuturial
- *TBD: Official code repo
+ * TBD: Newbie tuturial
+ * TBD: Official code repo
