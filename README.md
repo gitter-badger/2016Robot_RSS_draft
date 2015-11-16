@@ -11,12 +11,10 @@
  
 ##Team Github
 
- * All team resources and codes are published under Github organization <code><a href="https://github.com/team5181"</a></code>
+ * All team resources and codes are published under Github organization <code><a href="https://github.com/team5181">team5181</a></code>
 
 ##Design
-
- * All design specs are under repo 
- * <code><a href="https://github.com/team5181/2015RobotDesign">team5181/2015RobotDesign</a></code>
+ * All design specs are under <code><a href="https://github.com/team5181/2015RobotDesign">team5181/2015RobotDesign</a></code>
 
 ##Codes
  * All codes are under repo <code><a href="https://github.com/team5181/2015Robot">team5181/2015Robot</a></code>
