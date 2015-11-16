@@ -1,4 +1,9 @@
 # 2016 Team 5181 FRC Robot RSS
+FIRST Robotics Team 5181's code for the 2015Robot
+
+This is an Iterative robot; The methods listed in Robot.java are called several times a second, so there is no need for a loop
+
+<br>Please read the following lines *carefully* to start contributing to this project.
 ##Developement Schedule
 
  * All dev schedules are updated on <code><a href="https://trello.com/b/f6z2ktWB/lschs-robot-2016">Trello</a></code>.
@@ -71,6 +76,7 @@ https://wpilib.screenstepslive.com/s/4485/m/13809/l/145002-installing-eclipse-c-
 ##Changelist
  * 2015-11-15 22:08: <code><a href="//github.com/frjalex">Alex Fang</a></code> created this repository.
  *  2015-11-15 22:08: <code><a href="//github.com/frjalex">Alex Fang</a></code> fixed some typos in README
+ *  2015-11-15 22:14: <code><a href="//github.com/frjalex">Alex Fang</a></code> enriched README
 
 ##Meta
  * TBD: Newbie tuturial
