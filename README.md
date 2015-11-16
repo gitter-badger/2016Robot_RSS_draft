@@ -1,4 +1,6 @@
 # 2016 Team 5181 FRC Robot RSS
+
+[![Join the chat at https://gitter.im/frjalex/2016Robot_RSS_draft](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frjalex/2016Robot_RSS_draft?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 FIRST Robotics Team 5181's code for the 2015Robot
 
 This is an Iterative robot; The methods listed in Robot.java are called several times a second, so there is no need for a loop
