@@ -15,11 +15,12 @@
 
 ##Design
 
- * All design specs are under repo <code><a href="https://github.com/team5181/2015RobotDesign">team5181/2015RobotDesign</a></code>
+ * All design specs are under repo 
+ * <code><a href="https://github.com/team5181/2015RobotDesign">team5181/2015RobotDesign</a></code>
 
 ##Codes
  * All codes are under repo <code><a href="https://github.com/team5181/2015Robot">team5181/2015Robot</a></code>
- * 
+
 ###Bug submission/Improvements
  * All discussions and bugs must be submitted to issues tab under <code>team5181/2015Robot</code> repo.
  * All improvements made must be submitted to pull-requests tab under <code>team5181/2015Robot</code> repo.
